@@ -3,6 +3,7 @@
 
 <h2 align="center"> Among Us: CUA Mod </h2>
 <img src="./images/cua.jpg"></img>
+
 # Installation
 - Browse to your among us directory.
 - Paste the files in root folder of among us.
